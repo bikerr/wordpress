@@ -2,7 +2,45 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blog.ipassportphoto.com/</loc>
-		<lastmod>2025-06-10T02:46:09+00:00</lastmod>
+		<lastmod>2025-06-13T08:00:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blog.ipassportphoto.com/ru-ru/foto-na-voditel-skoye-udostovereniye-odezhda-of23/</loc>
+		<lastmod>2025-06-13T06:48:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/stil-fason-53va.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/luchshiye-tsveta-jc62.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blog.ipassportphoto.com/ru-ru/kak-pomenyat-foto-na-voditel-skom-udostoverenii/</loc>
+		<lastmod>2025-06-13T06:47:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blog.ipassportphoto.com/ru-ru/foto-na-pensionnoye-udostovereniye-2025-f4ut/</loc>
+		<lastmod>2025-06-13T06:45:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/kak-vyglyadit-novoye-pensionnoye-udostovereniye-827e.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/trebovaniya-k-foto-na-pensionnoye-udostovereniye-2025-827e.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blog.ipassportphoto.com/ru-ru/kak-poluchit-pasport-kazakhstane-2025-godu-hbk5/</loc>
+		<lastmod>2025-06-13T06:45:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/foto-na-pasport-kazakhstana-tza5.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blog.ipassportphoto.com/ru-ru/chto-nuzhno-dlya-prodleniya-medknizhki-3cbp/</loc>
+		<lastmod>2025-06-13T08:00:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/prokhozhdeniye-meditsinskogo-osmotra-g8xi.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://blog.ipassportphoto.com/ru-ru/trebovaniya-k-foto-3kh4-dlya-sotsial-noy-karty-moskvicha-84s2/</loc>
