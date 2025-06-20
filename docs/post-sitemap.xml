@@ -2,37 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blog.ipassportphoto.com/</loc>
-		<lastmod>2025-06-19T08:00:26+00:00</lastmod>
+		<lastmod>2025-06-20T08:00:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blog.ipassportphoto.com/ru-ru/foto-na-pensionnoye-udostovereniye-wkk9/</loc>
-		<lastmod>2025-06-18T03:30:31+00:00</lastmod>
+		<loc>https://blog.ipassportphoto.com/ru-ru/voyennyy-bilet-dlya-devushek-medikov-s95v/</loc>
+		<lastmod>2025-06-20T08:00:13+00:00</lastmod>
 		<image:image>
-			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/Staraya-russkaya-zhenshchina-sidit-na-taburete-5kx8.webp</image:loc>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/tipy-voyennykh-biletov-pi3k.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/cta-ru.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://blog.ipassportphoto.com/ru-ru/kak-sdelat-foto-3-na-4-9si9/</loc>
-		<lastmod>2025-06-18T08:00:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/pricheska-makiyazh-tcq9.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/cta-ru.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/foto-3-Na-4-ipassportphoto-6kg7.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/sdelat-foto-3-Na-4-9qc3.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://blog.ipassportphoto.com/ru-ru/foto-na-medknizhku-2025-ocg7/</loc>
-		<lastmod>2025-06-19T08:00:26+00:00</lastmod>
+		<lastmod>2025-06-20T05:18:22+00:00</lastmod>
 		<image:image>
 			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/devushka-v-fotostudii-n2n4.webp</image:loc>
 		</image:image>
@@ -44,13 +28,49 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://blog.ipassportphoto.com/ru-ru/foto-na-pensionnoye-udostovereniye-wkk9/</loc>
+		<lastmod>2025-06-20T05:17:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/Staraya-russkaya-zhenshchina-sidit-na-taburete-5kx8.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/cta-ru.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://blog.ipassportphoto.com/ru-ru/foto-na-voyennyy-bilet-trebovaniya-2025-45u5/</loc>
-		<lastmod>2025-06-18T03:26:05+00:00</lastmod>
+		<lastmod>2025-06-20T05:15:02+00:00</lastmod>
 		<image:image>
 			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/foto-na-voyennyy-bilet-trebovaniya-cr9p.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/cta-ru.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blog.ipassportphoto.com/ru-ru/foto-na-zagranpasport-dlya-rebenka-a5ci/</loc>
+		<lastmod>2025-06-20T05:12:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/baby-passport-photo-gcc2p4hx-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/baby-lie-8t29ndjr-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blog.ipassportphoto.com/ru-ru/kak-sdelat-foto-3-na-4-9si9/</loc>
+		<lastmod>2025-06-20T05:12:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/pricheska-makiyazh-tcq9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/cta-ru.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/foto-3-Na-4-ipassportphoto-6kg7.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/sdelat-foto-3-Na-4-9qc3.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -78,16 +98,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/makeup-lipstick-q3bx295d-1.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://blog.ipassportphoto.com/ru-ru/foto-na-zagranpasport-dlya-rebenka-a5ci/</loc>
-		<lastmod>2025-06-17T12:48:07+00:00</lastmod>
-		<image:image>
-			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/baby-passport-photo-gcc2p4hx-1.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/baby-lie-8t29ndjr-1.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
