@@ -2,7 +2,63 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blog.ipassportphoto.com/</loc>
-		<lastmod>2025-06-27T08:00:33+00:00</lastmod>
+		<lastmod>2025-07-05T01:37:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blog.ipassportphoto.com/ru-ru/pravilnaya-poza-foto-pasport-7kz2/</loc>
+		<lastmod>2025-07-05T01:37:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/07/russkaya-zhenshchina-stoit-za-stenoy-2b8z.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/cta-ru.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blog.ipassportphoto.com/ru-ru/kak-sdelat-foto-3x4-jk4p/</loc>
+		<lastmod>2025-07-03T12:40:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/07/sdelat-foto-3-na-4-onlayn-5hb9.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/cta-ru.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/07/Ispol-zovaniye-adobe-photoshop-4z37.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blog.ipassportphoto.com/ru-ru/foto-na-zagranpasport-gosuslugi-yeq8/</loc>
+		<lastmod>2025-07-03T07:52:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/07/sdelat-foto-na-pasport-onlayn-z3x6.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/cta-ru.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blog.ipassportphoto.com/ru-ru/foto-na-dokumenty-doma-d8vc/</loc>
+		<lastmod>2025-07-03T07:31:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/07/vybor-odezhdy-e592.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/cta-ru.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blog.ipassportphoto.com/ru-ru/foto-35x45-na-telefone-k343/</loc>
+		<lastmod>2025-07-03T06:43:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/zhenshchina-stoit-za-stenoy-4o83.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/delayte-fotografii-na-svoy-telefon-p54v.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blog.ipassportphoto.com/wp-content/uploads/2025/06/cta-ru.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://blog.ipassportphoto.com/ru-ru/krasivoe-foto-na-pasport-w2o5/</loc>
